@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Services
-    subtitle: We offer wide range of services
+    subtitle: We offer wide range of services.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
