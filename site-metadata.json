@@ -23,7 +23,7 @@
             {
                 "label": "Contact Us",
                 "url": "",
-                "primary": false
+                "primary": true
             }
         ]
     },
