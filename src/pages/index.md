@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Study abroad
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Everything you need to know to make the most of world-class student
+      experience.
     actions:
       - label: Learn More
         url: /features
