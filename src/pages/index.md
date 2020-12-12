@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/mbbs-student-girl-1156296951869os7qlnew.png
+    image: images/getty_655998316_2000149920009280219_363765.jpg
     image_alt: App preview
     title: Study abroad
     content: >-
