@@ -3,7 +3,8 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: >-
+      images/kisspng-act-student-institute-school-education-a-group-of-students-5ae08be44e9964.363531111524665316322.jpg
     image_alt: App preview
     title: Study abroad
     content: >-
